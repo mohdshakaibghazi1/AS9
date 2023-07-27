@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\bin\Debug\AP9.exe.config
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\bin\Debug\AP9.exe
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\bin\Debug\AP9.pdb
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\obj\Debug\AP9.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\obj\Debug\AP9.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\obj\Debug\AP9.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\obj\Debug\AP9.exe
+C:\Users\moham\source\repos\AssistedProject\AP9\AP9\obj\Debug\AP9.pdb
